@@ -8,9 +8,11 @@
      
     BM-NB5C7KBGPPxjEFSuHTqJwsVzFGELJfVZ
      
-    I am only putting it here for the record.  You should not assume to be able to send and have me receive any and all messages at any given time window.
+    I am only putting it here for the record.  You should not assume to be able to send and have me 
+    receive any and all messages at any given time window.
      
-    This signed statement is to establish that the owner of this gpg key is claiming exclusive control over the above address.
+    This signed statement is to establish that the owner of this gpg key is claiming exclusive 
+    control over the above address.
      
     Stamped : MrZigler June 2, 2015 UTC withheld.
     -----BEGIN PGP SIGNATURE-----
